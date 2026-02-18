@@ -19,7 +19,7 @@ export function PressKitSection() {
                         </p>
 
                         <a
-                            href="/assets/press-kit.zip"
+                            href="./assets/press-kit.zip"
                             download
                             className="group relative inline-flex items-center gap-4 overflow-hidden bg-white px-10 py-5 text-xl font-black uppercase tracking-wider text-black transition-all hover:scale-105 active:scale-95"
                         >
